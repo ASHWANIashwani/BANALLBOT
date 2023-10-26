@@ -1,6 +1,6 @@
 # ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 Ban All Bot
 
-![™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍](https://graph.org/file/b0825ba6490d2aa6a6afd.jpg) <!-- Add your bot's logo here -->
+![™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍](http://telegra.ph/file/da67bb071fac5b01a5c8d.jpg) <!-- Add your bot's logo here -->
 
 Welcome to the Telegram Ban All Bot, created by @oxyhu. This bot is designed to streamline administrative tasks in your Telegram group, making it easier to manage your community.
 
@@ -17,7 +17,7 @@ Welcome to the Telegram Ban All Bot, created by @oxyhu. This bot is designed to 
 
 Deploying this bot to Heroku is a breeze! Simply click the "Deploy to Heroku" button below to get started:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/BANALLBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ASHWANIashwani/BANALLBOT)
 
 ### Environment Variables
 
@@ -34,14 +34,14 @@ Once deployed, you can harness the power of the Telegram Ban All Bot in your gro
 
 ## Support and Contributions
 
-If you encounter issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/PRADHAN474/BANALLBOT). Your contributions are appreciated!
+If you encounter issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/ASHWANIashwani/BANALLBOT). Your contributions are appreciated!
 
 ## Telegram Support
 
-Have questions or need assistance? Join our [Support Group](https://t.me/BWANDARLOK) for help!
+Have questions or need assistance? Join our [Support Group](https://t.me/ASHWANI10) for help!
 
 ## Credits
 
-This bot was brought to you by @oxyhu. Thank you for using it!
+This bot was brought to you by @ASHWANI10. Thank you for using it!
 
 Enjoy using the Telegram Ban All Bot and make group management easier than ever!
