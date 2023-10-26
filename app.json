@@ -1,8 +1,8 @@
 {
-   "name": "™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍",
+   "name": "ASHWANI",
    "description": "POWERFULLY BAN ALL BOT",
-   "repository": "https://github.com/PRADHAN474/BANALLBOT",
-   "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+   "repository": "https://github.com/ASHWANIashwani/BANALLBOT",
+   "logo": "http://telegra.ph/file/da67bb071fac5b01a5c8d.jpg",
    "image": "heroku/python",
    "env": {
       "API_ID": {
